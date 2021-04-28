@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.88071747.chunk.css",
+    "main.js": "/static/js/main.1eaf48b5.chunk.js",
+    "main.js.map": "/static/js/main.1eaf48b5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8a20a762.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8a20a762.js.map",
+    "static/css/2.1820b593.chunk.css": "/static/css/2.1820b593.chunk.css",
+    "static/js/2.6ab1d165.chunk.js": "/static/js/2.6ab1d165.chunk.js",
+    "static/js/2.6ab1d165.chunk.js.map": "/static/js/2.6ab1d165.chunk.js.map",
+    "static/js/3.c507d9a3.chunk.js": "/static/js/3.c507d9a3.chunk.js",
+    "static/js/3.c507d9a3.chunk.js.map": "/static/js/3.c507d9a3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1820b593.chunk.css.map": "/static/css/2.1820b593.chunk.css.map",
+    "static/css/main.88071747.chunk.css.map": "/static/css/main.88071747.chunk.css.map",
+    "static/js/2.6ab1d165.chunk.js.LICENSE.txt": "/static/js/2.6ab1d165.chunk.js.LICENSE.txt",
+    "static/media/microphone~MMbrAzIj.svg": "/static/media/microphone~MMbrAzIj.52a4fd8a.svg",
+    "static/media/App.css": "/static/media/studioWallpaper.8130c17b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a20a762.js",
+    "static/css/2.1820b593.chunk.css",
+    "static/js/2.6ab1d165.chunk.js",
+    "static/css/main.88071747.chunk.css",
+    "static/js/main.1eaf48b5.chunk.js"
+  ]
+}
