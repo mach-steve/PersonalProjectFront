@@ -1,5 +1,17 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# Project Files
+MusicPage.js
+Audio.js
+Chorus.js
+Delay.js
+Gain.js
+Overdrive.js
+PostGain.js
+Reverb.js
+
+
+
 # dependencies
 /node_modules
 /.pnp

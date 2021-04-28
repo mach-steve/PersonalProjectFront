@@ -1,38 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Ruthie&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Coda:wght@800&display=swap');
+
+
 .App {
+  text-align: center;
+  width: 80%;
+  background-color: rgb(186, 219, 228);
+  margin: auto;
+  font-family: 'Coda', cursive;
+ 
+}
+
+.navContainer {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  
+}
+
+.divA {
+  color: aliceblue;
+  margin-top: 8px;
+  margin-left: 7px;
+  margin-right: 7px;
+  text-decoration: none;
+
+  
+}
+
+.navA {
+  text-decoration: none;
+  
+}
+
+.navButton {
+  color: aliceblue;
+  background-color: rgb(44, 44, 44);
+  border: none;
+}
+
+.formContainer {
+  display: grid;
+  grid-template-columns: auto;
+}
+
+.formClass {
+  width:20%;
+  align-items: center;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* .musicContainer {
+  display: grid;
+  grid-template-columns: auto auto;
+  border: 2px;
+  height: 100%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.leftHalf {
+  border-right: 2px solid rgb(196, 0, 0);
+  border-bottom: 2px solid rgb(196, 0, 0);
+  background-image: url("./images/tweed.jpg");
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.rightHalf {
+  border-left: 2px solid rgb(196, 0, 0);
+} */
+
+#root {
+  background-color: rgb(224, 255, 251);
+  height: 1000px;
 }
 
-.App-link {
-  color: #61dafb;
+.toTheLeft {
+float: left;
+  
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.toTheRight {
+float: right;
+} 
+
+.homeBody {
+  font-family: 'Ruthie', cursive;
+  background-image: url('./images/mixkit-retro-audio-tape-recorder-in-motion-424-0.webp');
+  background-size: 100%;
+  height: 850px;
 }
+
+.odButtonContainer {
+  height: 200px;
+
+}
+
+.formClass {
+  margin: auto;
+  margin-top: 40px;
+}
+
+.recorderContainer {
+  width: 100%;
+  align-self: center;
+  display: grid;
+  grid-template-columns: 30% 40% 30%;
+  background-image: url("./images/studioWallpaper.jpg");
+  background-size: 100%;
+  height: 800px;
+}
+
+.deleteButton {
+  background-color: red;
+  border-radius: 10px;
+}
+
+ 
+
+
+
